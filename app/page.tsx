@@ -59,7 +59,7 @@ export default function Home() {
           </div>
 
           <div className="bg-gray-800 rounded-xl p-6 card-hover">
-            <h2 className="text-2xl font-bold mb-4 text-[#ff6b2b]">Let's Connect</h2>
+            <h2 className="text-2xl font-bold mb-4 text-[#ff6b2b]">Lets Connect</h2>
             <div className="space-y-4">
               <a 
                 href="https://github.com/KevinHartwig" 
