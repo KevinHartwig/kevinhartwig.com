@@ -67,7 +67,7 @@ export default function Resume() {
               <ul className="list-disc list-inside text-gray-300 space-y-2">         
 
                 <li>Led project to migrate document repository of 750 million documents from local optical storage to Amazon S3 storage.</li>
-                <li>Designed and developed a solution to migrate all documents in our company's contract management solution (Filenet), into our document management system.</li>
+                <li>Designed and developed a solution to migrate all documents in our companys contract management solution (Filenet), into our document management system.</li>
                 <li>Led project to modernize internal SOAP web services to secure restful web services.</li>
                 <li>Led project to migrate existing VB6 applications and common libraries to C#.</li>
                 <li>Consulted with process analysts and management to design, prioritize and cost projects.</li>
