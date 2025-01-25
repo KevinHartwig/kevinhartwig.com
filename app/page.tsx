@@ -73,7 +73,7 @@ export default function Home() {
                 GitHub
               </a>
               <a 
-                href="https://linkedin.com/in/kevinhartwig" 
+                href="https://linkedin.com/in/kevinhartwig-a8b44a3b" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center text-gray-300 hover:text-[#ff8f5d] transition-colors"
@@ -84,7 +84,7 @@ export default function Home() {
                 LinkedIn
               </a>
               <Link 
-                href="/contact" 
+                href="mailto:admin@kevinhartwig.com" 
                 className="flex items-center text-gray-300 hover:text-[#ff8f5d] transition-colors"
               >
                 <svg className="h-5 w-5 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
