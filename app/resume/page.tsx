@@ -31,7 +31,7 @@ export default function Resume() {
                 <li>Partnered with engineering, security, compliance on defining and implementing infrastructure to support organizational initiatives.</li>
                 <li>Collaborated with engineering leadership to define and document best practices related to operational excellence including code freezes, on-call expectations, scheduled maintenance, PHI logging standards.</li>
                 <li>Expanded SRE team from 2 engineers to 7 including hiring of management and Director of Infrastructure.</li>
-                <li>Provided 24/7 hour on-call support to meet 99.9% uptime SLA’s.</li>
+                <li>Provided 24/7 hour on-call support to meet 99.9% uptime SLAs.</li>
               </ul>
             </div>
 
@@ -108,7 +108,7 @@ export default function Resume() {
               </div>
               <h4 className="text-lg text-gray-400 mb-2">Department of Defense - Naval Undersea Warfare Center</h4>
               <ul className="list-disc list-inside text-gray-300 space-y-2">         
-                <li>Worked as a part of a team to develop, test, and support the United States Navy’s Carrier Vessel Tactical Support Center (CV-TSC) and Undersea Warfare Decision Support System (USW-DSS).</li>
+                <li>Worked as a part of a team to develop, test, and support the United States Navys Carrier Vessel Tactical Support Center (CV-TSC) and Undersea Warfare Decision Support System (USW-DSS).</li>
                 <li>Designed and developed Java application to simulate the deployment of sonobuoys to be used in testing and readiness activities.</li>
                 <li>Performed on-site installations of the USW-DSS software.</li>
                 <li>Provided on-site, phone and email support to customers and other support personnel.</li>
