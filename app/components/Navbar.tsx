@@ -13,7 +13,7 @@ export default function Navbar() {
           <div className="flex space-x-8">
             <Link href="/" className="text-gray-300 hover:text-[#ff6b2b] transition-colors">Home</Link>
             <Link href="/blog" className="text-gray-300 hover:text-[#ff6b2b] transition-colors">Blog</Link>
-            <Link href="/projects" className="text-gray-300 hover:text-[#ff6b2b] transition-colors">Projects</Link>
+            {/* <Link href="/projects" className="text-gray-300 hover:text-[#ff6b2b] transition-colors">Projects</Link> */}
             <Link href="/resume" className="text-gray-300 hover:text-[#ff6b2b] transition-colors">Resume</Link>
             <Link href="/contact" className="text-gray-300 hover:text-[#ff6b2b] transition-colors">Contact</Link>
           </div>
