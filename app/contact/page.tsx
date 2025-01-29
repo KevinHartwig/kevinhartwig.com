@@ -36,7 +36,7 @@ export default function Contact() {
               </a>
               
               <a 
-                href="https://www.linkedin.com/in/kevin-hartwig-a8b44a3b" 
+                href="https://www.linkedin.com/in/hartwigkevin" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="flex items-center text-gray-300 hover:text-[#ff8f5d] transition-colors"
